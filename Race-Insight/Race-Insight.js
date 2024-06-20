@@ -303,7 +303,7 @@ var config = {
     prefix: '/',
     port: 443,
     isSecure: true,
-    webIntegrationId: 'xBCs85GiQVfXi8eC3Bv6f2OuDzI4IXV2'
+    webIntegrationId: 'eG7L9trLbz29yO4l91yAvk7SuSdDXySX'
 };
 require.config( {
     baseUrl: ( config.isSecure ? "https://" : "http://" ) + config.host + (config.port ? ":" + config.port : "") + config.prefix + "resources",
